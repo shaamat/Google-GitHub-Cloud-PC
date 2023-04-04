@@ -9,8 +9,6 @@ on:
         description: 'Enter CRD code'
         required: true
       pincode: 123456
-        description: 'Six digit Pin'
-        required: false
   
 jobs:
   build:
